@@ -1,0 +1,16 @@
+[
+{
+    "modid": "IC",
+    "name": "InformationCraft",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "description": "MinecraftMod related to the information age.",
+    "credits": "",
+    "version": "0.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["PurplePopo"],
+    "parent": "",
+    "screenshots": []
+}
+]
